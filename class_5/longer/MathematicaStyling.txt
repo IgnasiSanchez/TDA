@@ -1,0 +1,8 @@
+Cell[StyleData[All, "Printout"], ShowSyntaxStyles->True]
+Cell[StyleData[All, "Printout"], ShowCellLabel -> True]
+Cell[StyleData[All, "Printout"],
+ Magnification->0.8]
+
+https://mathematica.stackexchange.com/questions/451/saving-a-notebook-as-pdf-preserving-syntax-highlighting
+
+https://mathematica.stackexchange.com/questions/108855/export-notebook-as-pdf-with-all-formats
